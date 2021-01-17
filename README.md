@@ -11,7 +11,11 @@ Steps to run in your On Google Collab :
 * Then you will get a 'flowers' folder with 6 sub folders => 'daisy', 'dandelion', 'flowers', 'rose', 'sunflower', 'tulip' .
 * As our dataset consist of 5 classes ,but here we may have an extra 'flowers' subfolder as a bug so we need to remove it .
 * Use :
+  
   `import shutil`
+  
   `data_dir = 'FOLDER PATH'`
+  
   `shutil.rmtree(data_dir + '/flowers')`
-* Then you are good to go :)
+  
+Then you are good to go :)
