@@ -7,9 +7,9 @@
 * Download the dataset from : https://www.kaggle.com/alxmamaev/flowers-recognition/discussion
 * Save the zip file to your google drive .
 * Open google collab notebook and mount the google drive to your collab notebook.
-* Use `!unzip "SOURCE FOLDER WITH THE NAME OF ZIPPED FILE" -d "DESTINATION FOLDER"` to unzip file and saving it to drive .
+* Use `!unzip "SOURCE FOLDER WITH THE NAME OF ZIPPED FILE" -d "DESTINATION FOLDER"` to unzip file and saving it to the drive .
 * Then you will get a 'flowers' folder with 6 sub folders => 'daisy', 'dandelion', 'flowers', 'rose', 'sunflower', 'tulip' .
-* As our dataset consist of 5 classes ,but here we may have an extra 'flowers' subfolder as a bug so we need to remove it .
+* As our dataset consist of 5 classes, but here we may have an extra subfolder 'flowers' as a bug so we need to remove it .
 * Use :
   
   `import shutil`
