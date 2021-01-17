@@ -22,3 +22,7 @@
 
 ### Note :
 `flowers-resnet34.pth` and `flowers-resnet9.pth` are not included here as it exceeds the size limit, so you need to retrain the model to generate those files, the training will not take much time and change the path to save the file accordingly .
+
+## Data Description
+![Capture](https://user-images.githubusercontent.com/63875409/104836235-86084f00-58d2-11eb-9117-2cc19f01953c.PNG)
+![Capture1](https://user-images.githubusercontent.com/63875409/104836236-87397c00-58d2-11eb-8d39-7110cd477ae9.PNG)
