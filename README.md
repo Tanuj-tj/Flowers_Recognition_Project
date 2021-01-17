@@ -21,4 +21,4 @@ Steps to run in your On Google Collab :
 * Then you are good to go :)
 
 ## Note :
-`flowers-resnet34.pth` and `flowers-resnet9.pth` are not included here as it exceeds the size limit , so you need to retrain the model to generate those files and the training will not take much time and change the path to save the file accordingly .
+`flowers-resnet34.pth` and `flowers-resnet9.pth` are not included here as it exceeds the size limit, so you need to retrain the model to generate those files, the training will not take much time and change the path to save the file accordingly .
